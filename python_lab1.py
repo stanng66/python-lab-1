@@ -11,8 +11,8 @@
 # Task 1: Create variable named x and assign value = 4
 x = 4
 
-# Task 2: Create variable named y and assign value = 5
-y = 5
+# Task 2: Create variable named y and assign value = 2
+y = 2
 
 # Task 3: Print x + y
 print (x + y)
