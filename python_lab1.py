@@ -56,5 +56,5 @@ print (f"The bill total is ${bill_total} and there are {num_people} people. Each
 dessert_cost = 6.55
 
 # Task 15: Print f-string with num_people, dessert_cost, and total_cost_of_desserts formatted to 2 decimal places
-total_cost_of_desserts = dessert_cost * num_people
+total_cost_of_desserts = dessert_cost * num_people   
 print (f"The desert cost is ${dessert_cost:.2f} and there are {num_people} people. The total cost of dessert is ${total_cost_of_desserts:.2f}.")
